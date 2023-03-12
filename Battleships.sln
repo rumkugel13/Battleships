@@ -9,6 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battleships.DesktopGL", "Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battleships.WindowsDX", "Battleships.WindowsDX\Battleships.WindowsDX.csproj", "{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{ECE532E4-1A4F-40C3-B539-BAD2E18720E0}"
+	ProjectSection(SolutionItems) = preProject
+		CREDITS.txt = CREDITS.txt
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
