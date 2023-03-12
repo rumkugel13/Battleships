@@ -11,8 +11,8 @@ A reimplementation of the game [Battleships](https://en.wikipedia.org/wiki/Battl
 # Build Instructions
 
 ## Requirements
-- .Net Core 5.0
-- Visual Studio (Code) or .Net Core SDK
+- .Net 6.0
+- Visual Studio (Code) with .Net 6.0 SDK
 - MonoGame.Framework (provided via NuGet)
 
 ## Build
