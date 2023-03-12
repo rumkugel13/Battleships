@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Battleships.Shared", "Battleships.Shared\Battleships.Shared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battleships.DesktopGL", "Battleships.DesktopGL\Battleships.DesktopGL.csproj", "{218F0517-3200-4682-BA39-49A95BAA8143}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Battleships.WindowsDX", "Battleships.WindowsDX\Battleships.WindowsDX.csproj", "{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218F0517-3200-4682-BA39-49A95BAA8143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218F0517-3200-4682-BA39-49A95BAA8143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218F0517-3200-4682-BA39-49A95BAA8143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218F0517-3200-4682-BA39-49A95BAA8143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E15671E-ABE4-43E6-9F5C-A1FDF2144669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982182E3-BD5F-4854-8767-5140DF92C17E}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Battleships.Shared\Battleships.Shared.projitems*{218f0517-3200-4682-ba39-49a95baa8143}*SharedItemsImports = 5
+		Battleships.Shared\Battleships.Shared.projitems*{2e15671e-abe4-43e6-9f5c-a1fdf2144669}*SharedItemsImports = 5
+		Battleships.Shared\Battleships.Shared.projitems*{a0cdbd0e-3a41-42b7-9425-a838bc2c7383}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

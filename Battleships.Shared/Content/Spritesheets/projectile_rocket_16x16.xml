@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+	<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+		<Item><Key>Missile_N0</Key><Value>0 0 16 16</Value></Item>
+		<Item><Key>Missile_N1</Key><Value>16 0 16 16</Value></Item>
+		<Item><Key>Missile_N2</Key><Value>32 0 16 16</Value></Item>
+		<Item><Key>Missile_N3</Key><Value>48 0 16 16</Value></Item>
+		<Item><Key>Missile_E0</Key><Value>0 64 16 16</Value></Item>
+		<Item><Key>Missile_E1</Key><Value>16 64 16 16</Value></Item>
+		<Item><Key>Missile_E2</Key><Value>32 64 16 16</Value></Item>
+		<Item><Key>Missile_E3</Key><Value>48 64 16 16</Value></Item>
+		<Item><Key>Missile_S0</Key><Value>0 128 16 16</Value></Item>
+		<Item><Key>Missile_S1</Key><Value>16 128 16 16</Value></Item>
+		<Item><Key>Missile_S2</Key><Value>32 128 16 16</Value></Item>
+		<Item><Key>Missile_S3</Key><Value>48 128 16 16</Value></Item>
+		<Item><Key>Missile_W0</Key><Value>0 192 16 16</Value></Item>
+		<Item><Key>Missile_W1</Key><Value>16 192 16 16</Value></Item>
+		<Item><Key>Missile_W2</Key><Value>32 192 16 16</Value></Item>
+		<Item><Key>Missile_W3</Key><Value>48 192 16 16</Value></Item>
+  </Asset>
+</XnaContent>

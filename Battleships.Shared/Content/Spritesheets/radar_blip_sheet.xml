@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>Blip_000</Key><Value>0 0 25 25</Value></Item>
+<Item><Key>Blip_001</Key><Value>26 0 25 25</Value></Item>
+<Item><Key>Blip_002</Key><Value>0 26 25 25</Value></Item>
+<Item><Key>Blip_003</Key><Value>26 26 25 25</Value></Item>
+<Item><Key>Blip_004</Key><Value>52 0 25 25</Value></Item>
+<Item><Key>Blip_005</Key><Value>52 26 25 25</Value></Item>
+<Item><Key>Blip_006</Key><Value>78 0 25 25</Value></Item>
+<Item><Key>Blip_007</Key><Value>78 26 25 25</Value></Item>
+<Item><Key>Blip_008</Key><Value>0 52 25 25</Value></Item>
+<Item><Key>Blip_009</Key><Value>0 78 25 25</Value></Item>
+<Item><Key>Blip_010</Key><Value>26 52 25 25</Value></Item>
+</Asset>
+</XnaContent>
