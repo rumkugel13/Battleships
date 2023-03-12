@@ -3,7 +3,7 @@
 ![Screenshot](https://rumkugel13.github.io/content/images/battleships_screenshot.png)
 
 ## About
-A reimplementation of the game [Battleships](https://en.wikipedia.org/wiki/Battleship_(game)) game in C# and [MonoGame](https://www.monogame.net/).
+An implementation of the [Battleships](https://en.wikipedia.org/wiki/Battleship_(game)) game in C# and [MonoGame](https://www.monogame.net/).
 
 ## Features
 - Currently singleplayer against (random) bot
